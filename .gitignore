@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.httr-oauth
+.env
+_targets/
+*.html
+*.data
+*.docx
+*.csv
+data/
+frost_manuscript_files/
+*.pdf
+*.nc
